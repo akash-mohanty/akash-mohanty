@@ -3,11 +3,11 @@
 <!--
 **akash-mohanty/akash-mohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 😄 Pronouns: He/Him
-- ⚡ Reach me at : mohantyakash446@gmail.com
+- 👋 Hi, I’m Akash Kumar Mohanty
+- 👀 I’m interested in AI & ML
+- 🌱 I’m currently learning B tech in CSE @ GIET University🚀🚀
+- 💞️ I’m looking to collaborate on CP and AI
+- 📫 How to reach me :- mohantyakash446@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-kumar-mohanty-65b254225) 
